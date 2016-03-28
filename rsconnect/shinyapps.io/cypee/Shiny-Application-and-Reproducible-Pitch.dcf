@@ -1,0 +1,10 @@
+name: Shiny-Application-and-Reproducible-Pitch
+account: cypee
+server: shinyapps.io
+appId: 90826
+bundleId: 404441
+url: https://cypee.shinyapps.io/Shiny-Application-and-Reproducible-Pitch/
+when: 1459134138.47263
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: projPresentation.html|projPresentation.md|projPresentation.Rpres|figure/bestminard.jpg|figure/interface.PNG
